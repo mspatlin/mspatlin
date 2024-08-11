@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I’m Patrick or you can call me Pat.<br>
+<br>
+Don't intend to introduce myself officially here, it's just a ittle profile space to make some notes perhaps about a flash of inspiration, research, side projects and miscellaneous practices that throughout my career and dailylife.
+
+![image info](https://i.postimg.cc/52TgZsVK/Forest.jpg)
+<br>
+
 <!--
 **mspatlin/mspatlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
