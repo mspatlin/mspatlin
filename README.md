@@ -2,7 +2,9 @@
 
 I’m Patrick or you can call me Pat.<br>
 <br>
-Don't intend to introduce myself officially here, it's just a ittle profile space to make some notes perhaps about a flash of inspiration, research, side projects and miscellaneous practices that throughout my career and dailylife.
+I’m not here to give a formal introduction about myself. This is just a little space for jotting down notes about random ideas, research, side projects, and other stuff that pops up in my daily life or career.
+<br>
+The content here, whether created by me or referenced from others, isn’t rigorous. It’s just for notes and self-reflection.
 
 ![image info](https://i.postimg.cc/52TgZsVK/Forest.jpg)
 <br>
